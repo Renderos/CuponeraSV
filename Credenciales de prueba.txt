@@ -9,7 +9,28 @@ Contraseña:	Admin123
 Usuario:	Usuario
 Contraseña:	Usuario123
 
+Usuario:	ronald-user
+Contraseña:	admin
+
+Usuario:	renderos
+Contraseña:	admin
+
+Usuario:	devin
+Contraseña:	admin
+
 
 ----------Login empresas-------------
 Usuario:	Apple	
 Contraseña:	Apple123
+
+Usuario:	ronald-dc
+Contraseña:	admin
+
+Usuario:	ronald-mc
+Contraseña:	admin
+
+Usuario:	udblis
+Contraseña:	admin
+
+Usuario:	udb-user
+Contraseña:	admin
