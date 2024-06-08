@@ -1,0 +1,15 @@
+
+=========== Credenciales de prueba========
+
+----------Login usuarios------------- 
+
+Usuario:	Admin	
+Contraseña:	Admin123
+
+Usuario:	Usuario
+Contraseña:	Usuario123
+
+
+----------Login empresas-------------
+Usuario:	Apple	
+Contraseña:	Apple123

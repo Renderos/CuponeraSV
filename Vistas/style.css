@@ -1,0 +1,22 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .h-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+  }
